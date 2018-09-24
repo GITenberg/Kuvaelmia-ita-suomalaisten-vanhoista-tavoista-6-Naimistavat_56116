@@ -1,11 +1,16 @@
 _repo: Kuvaelmia-ita-suomalaisten-vanhoista-tavoista-6-Naimistavat_56116
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Häyhä, Johannes
     gutenberg_agent_id: '48667'
     url: http://www.gutenberg.org/2009/agents/48667
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56116#Kuvaelmia-ita-suomalaisten-vanhoista-tavoista-6-Naimistavat
 gutenberg_issued: '2017-12-03'
 gutenberg_type: Text
 identifiers:
